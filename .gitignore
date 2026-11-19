@@ -1,0 +1,17 @@
+# Build + run outputs
+out/
+output/
+node_modules/
+
+# Local environment / secrets (never committed)
+.env
+.env.*
+!.env.example
+
+# OS + editor leftovers
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
