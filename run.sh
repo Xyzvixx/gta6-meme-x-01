@@ -5,4 +5,4 @@ set -eu
 cd "$(dirname "$0")"
 mkdir -p out
 MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
-echo "OK: out/POST.json written"
+echo "OK: out/meme.png + out/POST.json written"
