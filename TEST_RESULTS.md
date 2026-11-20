@@ -129,3 +129,6 @@ J3/J4/J5 after their providers recover if the parent wants the full panel.
   `caption.txt` are byte-identical to round 2.
 - `POST.json`: `{"url":"https://x.com/xyzvix/status/2123712548486983991"}` (57 B).
 - Caption (unchanged): "Officer, I finally moved. To make.fun.\n\nBuild yours:\nhttps://make.fun/bounty/gta6-meme-x-01 @makefunai makefun-seal-lavender-vinyl"
+
+## Round 4 — title correction (20 Nov 2026)
+Round 3's submitted title lost "$5" to shell expansion ("00 Bounty"). Content identical to round 3 (commit 2b60436e): same meme.png, same main.ts, same POST.json, same bundle. This resubmit corrects only the title to "PENALTY: 1 MEME | Leonida Citation, 13-Year Loop, 169 px Star-to-YOU, $500 Bounty".
