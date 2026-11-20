@@ -1,8 +1,8 @@
 # PENALTY: 1 MEME | Leonida Citation, 13-Year Loop, 169 px Star-to-YOU, $500 Bounty
 
-[![make.fun](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
-[![rank](https://make.fun/badge/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
-[![reward](https://make.fun/badge/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/Xyzvixx/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/Xyzvixx/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 A Leonida Parking Citation for the crime of failing to move for 13 years.
 The penalty is one meme — and that meme is a shot at the $500 make.fun
